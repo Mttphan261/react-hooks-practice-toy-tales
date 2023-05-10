@@ -22,7 +22,7 @@
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 12
     },
     {
       "id": 5,
@@ -40,13 +40,25 @@
       "id": 7,
       "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "likes": 3
     },
     {
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 6
+    },
+    {
+      "name": "Gundam",
+      "image": "https://cdn.shopify.com/s/files/1/0154/7499/products/HG1_144GUNDAMAGE-1RAZOR_GUNDAMAGE-2ARTIMESSet_1024x1024.png?v=1644869667",
+      "likes": 9,
+      "id": 9
+    },
+    {
+      "name": "Samus",
+      "image": "https://images.goodsmile.info/cgm/images/product/20170417/6390/44951/large/1d208232ea7ffd3cb006c743695158f9.jpg",
+      "likes": 0,
+      "id": 11
     }
   ]
 }
